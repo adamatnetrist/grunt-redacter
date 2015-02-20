@@ -1,6 +1,6 @@
 {
   "name": "grunt-redacter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Grunt plugin for removing marked bits of source code",
   "main": "tasks/redacter.js",
   "scripts": {
